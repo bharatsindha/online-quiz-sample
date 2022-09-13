@@ -1,0 +1,14 @@
+.dashboardIcon {
+  font-size: 56px !important;
+  color: #e9e5e4;
+}
+
+.quizinerPaperValue {
+  font-size: 25px;
+}
+
+.quizinerPaperText,
+.quizinerChartHeading {
+  font-family: 'Raleway';
+  font-size: 15px;
+}

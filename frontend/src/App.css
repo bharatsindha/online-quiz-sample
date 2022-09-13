@@ -1,0 +1,22 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+.bg-dark {
+  background-color: #3f51b5 !important;
+}
+
+a.bg-dark:hover,
+a.bg-dark:focus,
+button.bg-dark:hover,
+button.bg-dark:focus {
+  background-color: #3f51b5 !important;
+}
+
+.makeStyles-userButton-7:hover {
+  background-color: #3f51b5 !important;
+}
+
+.bg-gray {
+  background-color: rgb(243, 244, 246);
+  color: rgb(55, 65, 81);
+}
